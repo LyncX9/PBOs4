@@ -1,0 +1,14 @@
+Code Explanation:
+
+Car Class:
+This class has three attributes: make, model, and year.
+The __init__ method is a constructor used to initialize these attributes when the object is created.
+
+display_info method:
+This method is used to display car information, namely make, model, and year.
+
+Object Creation:
+Three objects (car1, car2, and car3) are created from the Car class with different attribute values.
+
+Displaying Information:
+The display_info method is called for each object to display the car information.
